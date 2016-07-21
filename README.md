@@ -1,3 +1,3 @@
 # hello-world
 
-Paradigms reconizer and disigner. 
+Paradigms recognizer and disigner. 
